@@ -1,0 +1,87 @@
+08-01-2024 15:47:16 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+08-01-2024 15:47:16 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Check Out Functionality
+08-01-2024 15:47:20 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Check Out Functionality
+08-01-2024 15:47:21 LoginPage.java INFO  [main] base.BaseClass 58 - Clicked on My Account Button For Login
+08-01-2024 15:47:21 LoginPage.java INFO  [main] base.BaseClass 60 - Clicked on Login Button For Login
+08-01-2024 15:47:21 LoginPage.java INFO  [main] base.BaseClass 68 - User Name Entered
+08-01-2024 15:47:22 LoginPage.java INFO  [main] base.BaseClass 71 - Password Entered
+08-01-2024 15:47:22 LoginPage.java INFO  [main] base.BaseClass 78 - Clicked on Login Button
+08-01-2024 15:47:27 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+08-01-2024 15:47:29 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 15:47:30 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 15:47:53 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Check Out Functionality
+08-01-2024 15:47:53 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+08-01-2024 15:47:53 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+08-01-2024 15:47:53 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
+08-01-2024 16:09:53 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+08-01-2024 16:09:53 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Check Out Functionality
+08-01-2024 16:09:57 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Check Out Functionality
+08-01-2024 16:09:57 LoginPage.java INFO  [main] base.BaseClass 58 - Clicked on My Account Button For Login
+08-01-2024 16:09:58 LoginPage.java INFO  [main] base.BaseClass 60 - Clicked on Login Button For Login
+08-01-2024 16:09:59 LoginPage.java INFO  [main] base.BaseClass 68 - User Name Entered
+08-01-2024 16:09:59 LoginPage.java INFO  [main] base.BaseClass 71 - Password Entered
+08-01-2024 16:09:59 LoginPage.java INFO  [main] base.BaseClass 78 - Clicked on Login Button
+08-01-2024 16:10:04 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+08-01-2024 16:10:06 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 16:10:07 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 16:10:30 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Check Out Functionality
+08-01-2024 16:10:30 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+08-01-2024 16:10:30 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+08-01-2024 16:10:30 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
+08-01-2024 16:11:09 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+08-01-2024 16:11:09 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Check Out Functionality
+08-01-2024 16:11:13 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Check Out Functionality
+08-01-2024 16:11:13 LoginPage.java INFO  [main] base.BaseClass 58 - Clicked on My Account Button For Login
+08-01-2024 16:11:14 LoginPage.java INFO  [main] base.BaseClass 60 - Clicked on Login Button For Login
+08-01-2024 16:11:14 LoginPage.java INFO  [main] base.BaseClass 68 - User Name Entered
+08-01-2024 16:11:14 LoginPage.java INFO  [main] base.BaseClass 71 - Password Entered
+08-01-2024 16:11:15 LoginPage.java INFO  [main] base.BaseClass 78 - Clicked on Login Button
+08-01-2024 16:11:20 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+08-01-2024 16:11:21 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 16:11:21 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 16:11:44 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Check Out Functionality
+08-01-2024 16:11:44 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+08-01-2024 16:11:44 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+08-01-2024 16:11:44 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
+08-01-2024 16:18:15 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+08-01-2024 16:18:15 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Check Out Functionality
+08-01-2024 16:18:21 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Check Out Functionality
+08-01-2024 16:18:21 LoginPage.java INFO  [main] base.BaseClass 58 - Clicked on My Account Button For Login
+08-01-2024 16:18:22 LoginPage.java INFO  [main] base.BaseClass 60 - Clicked on Login Button For Login
+08-01-2024 16:18:22 LoginPage.java INFO  [main] base.BaseClass 68 - User Name Entered
+08-01-2024 16:18:22 LoginPage.java INFO  [main] base.BaseClass 71 - Password Entered
+08-01-2024 16:18:22 LoginPage.java INFO  [main] base.BaseClass 78 - Clicked on Login Button
+08-01-2024 16:18:28 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+08-01-2024 16:18:29 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 16:18:30 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+08-01-2024 16:18:55 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Check Out Functionality
+08-01-2024 16:18:55 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+08-01-2024 16:18:56 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+08-01-2024 16:18:56 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
+10-23-2024 06:19:25 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+10-23-2024 06:19:25 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Product Search Functionality
+10-23-2024 06:19:32 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Product Search Functionality
+10-23-2024 06:19:32 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+10-23-2024 06:19:33 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+10-23-2024 06:19:33 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Product Search Functionality
+10-23-2024 06:19:33 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+10-23-2024 06:19:33 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+10-23-2024 06:19:33 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
+10-23-2024 06:19:34 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+10-23-2024 06:19:34 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Product Search Functionality
+10-23-2024 06:19:37 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Product Search Functionality
+10-23-2024 06:19:37 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+10-23-2024 06:19:38 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+10-23-2024 06:19:38 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Product Search Functionality
+10-23-2024 06:19:38 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+10-23-2024 06:19:38 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+10-23-2024 06:19:38 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
+10-23-2024 06:19:39 Hooks.java INFO  [main] base.BaseClass 19 - ****************LOG STARTING*******************
+10-23-2024 06:19:39 Hooks.java INFO  [main] base.BaseClass 20 - Scenario Executing Start :-Verify Product Search Functionality
+10-23-2024 06:19:42 Hooks.java INFO  [main] base.BaseClass 22 - Application is opended :-Verify Product Search Functionality
+10-23-2024 06:19:43 ProductSearch.java INFO  [main] base.BaseClass 36 - Product Name Entered
+10-23-2024 06:19:43 ProductSearch.java INFO  [main] base.BaseClass 44 - Clicked On Search
+10-23-2024 06:19:43 Hooks.java INFO  [main] base.BaseClass 48 - Scenario Executing Finish :-Verify Product Search Functionality
+10-23-2024 06:19:44 BaseClass.java INFO  [main] base.BaseClass 86 - ::::Active Browser is close::::
+10-23-2024 06:19:44 BaseClass.java INFO  [main] base.BaseClass 89 - ::::All Browser is quit::::
+10-23-2024 06:19:44 BaseClass.java INFO  [main] base.BaseClass 90 - *****************END OF LOG*******************
